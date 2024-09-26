@@ -1,2 +1,2 @@
 # GARCH-IBRX50
-Modelagem de Volatilidade do Índice IBRX-50 com GARCH models
+Modelagem econométrica da volatilidade do Índice IBRX-50 com modelos ARCH-GARCH 
